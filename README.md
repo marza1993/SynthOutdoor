@@ -4,9 +4,9 @@ The object masks are also produced for segmentation purposes.
 
 
 <p float="center">
-  <img src="./imgs/synth1.png" width="250" />
-  <img src="./imgs/synth2.png" width="250" /> 
-  <img src="./imgs/synth3.png" width="250" />
+  <img src="./imgs/syn1.png" width="250" />
+  <img src="./imgs/syn2.png" width="250" /> 
+  <img src="./imgs/syn3.png" width="250" />
 </p>
 
 <p float="center">
