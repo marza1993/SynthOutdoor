@@ -22,9 +22,9 @@ The object masks are also produced for segmentation purposes.
 </p>
 
 <p float="center">
-  <img src="./imgs/light1.png" width="250" />
-  <img src="./imgs/light2.png" width="250" /> 
-  <img src="./imgs/light3.png" width="250" />
+  <img src="./imgs/light1.pdf" width="250" />
+  <img src="./imgs/light2.pdf" width="250" /> 
+  <img src="./imgs/light3.pdf" width="250" />
 </p>
 
 
