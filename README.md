@@ -10,6 +10,18 @@ The object masks are also produced for segmentation purposes.
 </p>
 
 <p float="center">
+  <img src="./imgs/normals1.png" width="250" />
+  <img src="./imgs/normals2.png" width="250" /> 
+  <img src="./imgs/normals3.png" width="250" />
+</p>
+
+<p float="center">
+  <img src="./imgs/mask1.png" width="250" />
+  <img src="./imgs/mask2.png" width="250" /> 
+  <img src="./imgs/mask3.png" width="250" />
+</p>
+
+<p float="center">
   <img src="./imgs/light1.png" width="250" />
   <img src="./imgs/light2.png" width="250" /> 
   <img src="./imgs/light3.png" width="250" />
