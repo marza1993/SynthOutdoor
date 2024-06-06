@@ -277,7 +277,7 @@ public class GameHandler : MonoBehaviour
                     float B = Random.Range(0.7f, 0.8f);
                     sun.color = new Color(R, G, B);
 
-                    System.IO.File.AppendAllText(fileName, sun.color.ToString());
+                    //System.IO.File.AppendAllText(fileName, sun.color.ToString());
                 }
             }
             catch(System.IO.IOException e)
