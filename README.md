@@ -53,14 +53,14 @@ If you intend to use this code in a research paper, you must cite our work as:
 
 ```
 @article{SynthOutdoor,
-  title={<insert>},
-  author={<insert>},
-  conference={},
+  title={SynthOutdoor: a synthetic dataset for 3D outdoor light estimation},
+  author={Zanardelli, M., Gohari, M., Leonardi, R., Benini, S., Adami, N.},
+  journal={Data in brief},
   volume={},
   number={},
   pages={},
-  year={2014},
-  publisher={Taylor \& Francis}
+  year={2024},
+  publisher={Elsevier}
 }
 ```
 
