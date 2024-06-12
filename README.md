@@ -56,9 +56,6 @@ If you intend to use this code in a research paper, you must cite our work as:
   title={SynthOutdoor: a synthetic dataset for 3D outdoor light estimation},
   author={Zanardelli, M., Gohari, M., Leonardi, R., Benini, S., Adami, N.},
   journal={Data in brief},
-  volume={},
-  number={},
-  pages={},
   year={2024},
   publisher={Elsevier}
 }
