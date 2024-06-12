@@ -5,16 +5,12 @@ public class GameHandler : MonoBehaviour
 {
     // seed for random generator (used to generate random light's intensity and color).
     private const int SEED = 11;
-    public static string img_path = @"C:\Users\mar-z\progetti\data\SynthOutdoor\images\";
-    //public static string img_path = @"C:\Users\mar-z\Desktop\saved_screenshots\images\";
-    public static string mask_path = @"C:\Users\mar-z\progetti\data\SynthOutdoor\masks\";
-    //public static string mask_path = @"C:\Users\mar-z\Desktop\saved_screenshots\masks\";
-
-    public static string normals_path = @"C:\Users\mar-z\progetti\data\SynthOutdoor\normals\";
+    public static string img_path = @"<choose_your_root_folder_of_dataset>\images\";
+    public static string mask_path = @"<choose_your_root_folder_of_dataset>\masks\";
+    public static string normals_path = @"<choose_your_root_folder_of_dataset>\normals\";
 
     public static string nomeScreenPrefisso = "scene";
-    //public static string fileName = @"C:\Users\mar-z\Desktop\saved_screenshots\light.csv";
-    public static string fileName = @"C:\\Users\\mar-z\\progetti\\data\\SynthOutdoor\\light.csv";
+    public static string fileName = @"<choose_your_root_folder_of_dataset>\light.csv";
     public static string sep = ";";
     private int savingCounter = 0;
     private const int NUM_SCREEN_SHOT = 50000;
