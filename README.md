@@ -37,7 +37,7 @@ The generated dataset with this code can be freely downloaded here [SynthOutdoor
    git clone https://github.com/marza1993/SynthOutdoor.git
    ```
 3. Import this project inside Unity.
-4. Create an empty root folder that will contain the generated dataset, *E.g.,: SynthOutdoor*. Inside this folder, create three sub-folders: *images*, *normals* and *masks*.
+4. Create an empty root folder `<choose_your_root_folder_of_dataset>` that will contain the generated dataset, *E.g.,: SynthOutdoor*. Inside this folder, create three sub-folders: *images*, *normals* and *masks*.
 5. In the `Assets\scripts\GameHandler.cs`, modify the output path variables according to the created folder structure in the previous point:
     ```
     public static string img_path = @"<choose_your_root_folder_of_dataset>\images\";
