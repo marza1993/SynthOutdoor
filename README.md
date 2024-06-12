@@ -40,7 +40,7 @@ The generated dataset with this code can be freely downloaded here [SynthOutdoor
 4. Create an empty root folder that will contain the generated dataset, *E.g.,: SynthOutdoor*. Inside this folder, create three sub-folders: *images*, *normals* and *masks*.
 5. In the `Assets\scripts\GameHandler.cs`, modify the output path variables according to the created folder structure in the previous point:
     ```
-    public static string img_path = @"C:\Users\mar-z\progetti\data\SynthOutdoor\images\";
+    public static string img_path = @"<choose_your_root_dataset\images\";
     public static string mask_path = @"C:\Users\mar-z\progetti\data\SynthOutdoor\masks\";
     public static string normals_path = @"C:\Users\mar-z\progetti\data\SynthOutdoor\normals\";
     public static string fileName = @"C:\Users\mar-z\progetti\data\SynthOutdoor\light.csv";
