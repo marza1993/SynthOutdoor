@@ -53,11 +53,17 @@ If you intend to use this code in a research paper, you must cite our work as:
 
 ```
 @article{SynthOutdoor,
-  title={SynthOutdoor: a synthetic dataset for 3D outdoor light estimation},
-  author={Zanardelli, M., Gohari, M., Leonardi, R., Benini, S., Adami, N.},
-  journal={Data in brief},
-  year={2024},
-  publisher={Elsevier}
+title = {SynthOutdoor: A synthetic dataset for 3D outdoor light estimation},
+journal = {Data in Brief},
+volume = {55},
+pages = {110700},
+year = {2024},
+issn = {2352-3409},
+doi = {https://doi.org/10.1016/j.dib.2024.110700},
+url = {https://www.sciencedirect.com/science/article/pii/S235234092400667X},
+author = {Marcello Zanardelli and Mahyar G. Moghaddam and Riccardo Leonardi and Sergio Benini and Nicola Adami},
+keywords = {3D light estimation, Dataset, Computer graphics, Unity3D},
+abstract = {In this work, we present a novel dataset, SynthOutdoor, comprising 39,086 high-resolution images, aimed at addressing the data scarcity in the field of 3D light direction estimation under the assumption of distant lighting. SynthOutdoor was generated using our software (which is also publicly available), that in turn is based on the Unity3D engine. Our dataset provides a set of images rendered from a given input scene, with the camera moving across a predefined path within the scene. This dataset captures a wide variety of lighting conditions through the implementation of a solar cycle. The dataset's ground truth is composed of the following elements: the 3D light direction and color intensity of the sun; the color intensity of the ambient light; the instance segmentation masks of each object and the surface normals map, in which each pixel is assigned with the 3D surface normal in that point (encoded as 3 color channels). By providing not only the light direction and intensity, but also the geometric and semantic information of the rendered images, our dataset can be used not only for light estimation, but also for more general tasks such as 3D geometry and shading estimation from 2D images.}
 }
 ```
 
